@@ -1,0 +1,14 @@
+{
+  "name": "arunav-ai-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "dotenv": "^16.3.1",
+    "fs-extra": "^11.3.0",
+    "openai": "^4.24.0"
+  }
+}
